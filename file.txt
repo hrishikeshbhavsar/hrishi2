@@ -1,1 +1,1 @@
-GM Hello world!
+GM GE Hello world!
